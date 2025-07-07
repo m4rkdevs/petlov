@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "test:cycloud":"npx cypress run --record --key 8ad567d1-00f6-4eed-9307-f06486af60b1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "ISC", 
   "description": "",
   "devDependencies": {
     "cypress": "^14.3.3"
